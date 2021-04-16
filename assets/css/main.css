@@ -1,0 +1,11 @@
+.btn {
+    transition: all ease 0.5s;
+}
+
+.bg-anjab {
+    background-color: #5879a2;
+}
+
+.btn-anjab {
+    background-color: #5879a2 !important;
+}
